@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @prathitnarayan
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Machine Learning
 - 💞️ I’m looking to collaborate on ... new projects
 - 📫 How to reach me ... https://www.linkedin.com/in/prathit-narayan-singh-66b39b179/
